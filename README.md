@@ -1,6 +1,8 @@
 # AgroVista-
 Agricultural marketplace system (Inventory Management & Customer Management)
 
+<br/>
+
 📌 Project Description — AgroVista
 
 AgroVista is a cutting-edge digital agricultural marketplace built to transform Sri Lanka’s farming supply chain by eliminating intermediaries and enabling direct, transparent interactions between farmers, dealers, customers, and tool suppliers.
@@ -19,6 +21,8 @@ Traditional agricultural markets often face issues such as delayed distribution,
 
 AgroVista ensures a faster, fairer, and more sustainable agricultural ecosystem, promoting profitability for all stakeholders while empowering rural communities through digital access, modern farming insights, and financial literacy.
 
+<br/>
+
 🧩 Technology Stack
 
 The system is developed using the MERN Stack, ensuring scalability, responsiveness, and secure performance:
@@ -33,6 +37,8 @@ The system is developed using the MERN Stack, ensuring scalability, responsivene
 
 The Agile methodology guided the development process, enabling iterative enhancements driven by real user feedback.
 
+<br/>
+
 🛠️ Additional Tools & Technologies
 
 ✅ Postman – Used for API testing, debugging, documentation, automation, and mock server setup.
@@ -40,6 +46,8 @@ The Agile methodology guided the development process, enabling iterative enhance
 ✅ Visual Studio Code – A lightweight and powerful code editor supporting Git, debugging, and a vast extension ecosystem.
 
 ✅ GitHub – A cloud-based version control platform for repository hosting, collaboration, and CI/CD pipelines.
+
+<br/>
 
 🌱 Impact
 
