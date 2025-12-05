@@ -1,2 +1,2 @@
 # AgroVista-
-Agricultural marketplace system
+Agricultural marketplace system (Inventory Management & Customer Management)
