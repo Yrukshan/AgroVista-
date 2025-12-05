@@ -65,4 +65,4 @@ A significant contribution to Sri Lanka’s digital agriculture vision
 
 By integrating technology with agriculture, AgroVista stands as a testament to how digital solutions can drive economic growth, sustainability, and industry-wide efficiency.
 
-Project Github Link : https://github.com/uvindu827/AgroVista
+👉 Group Project Github Link : https://github.com/uvindu827/AgroVista
