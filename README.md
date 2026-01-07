@@ -3,6 +3,11 @@ Agricultural marketplace system (Inventory Management & Customer Management)
 
 <br/>
 
+<img width="1889" height="911" alt="Screenshot 2025-12-12 013941" src="https://github.com/user-attachments/assets/2d0407fd-dfa8-4d31-b454-c793fb1f3f21" />
+
+
+<br/>
+
 📌 Project Description — AgroVista
 
 AgroVista is a cutting-edge digital agricultural marketplace built to transform Sri Lanka’s farming supply chain by eliminating intermediaries and enabling direct, transparent interactions between farmers, dealers, customers, and tool suppliers.
